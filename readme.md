@@ -7,3 +7,5 @@
 ### The project started in 2018, and after my graduation it took a big hiatus. Updates are due, and I'm getting back to work with this concept in early 2022.
 
 ### Feel free to ask questions and colab in this development. 
+
+### Proof of concept can be seen at https://www.youtube.com/watch?v=dRGHVrhc-jM
